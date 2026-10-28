@@ -1,0 +1,12 @@
+Write an algorithm to find the largest of two numbers
+
+
+1. start
+2. accept two numbers A & B
+3. if A is Greater than B then print "A is Greater"
+    and go to step 6 otherwise goto step 4
+4. if B is Greater than A then print "B iso Greater"
+   and goto step 6 otherwise goto step 5
+5. print "Both are equal"
+
+6.stop

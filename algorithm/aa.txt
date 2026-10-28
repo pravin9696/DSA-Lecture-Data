@@ -1,0 +1,24 @@
+Write an algorithm to reverse the digits of an integer
+
+
+i/p     --> o/p   
+123        321
+12          21
+111        111
+10           01
+1234        4321
+3           3       
+
+
+step1   set n=0,read number no      
+step 2  if number>0 then goto 
+        step3 otherwise goto          step 5
+step3  collect last digit from         no and  
+        multiply n by 10 and        add that last digit 
+step4  remove last digit from no goto step 2       
+
+step 5 print n
+step 6 stop
+
+
+

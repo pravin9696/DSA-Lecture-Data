@@ -1,0 +1,115 @@
+function  
+what is function
+
+  types of functions
+
+  examples
+
+
+  
+   addition of two numbers   100
+
+          a,b,total;
+
+             step1 accept two numbers and store into a & b
+             step2 add a& b and store into total
+              
+           sum();//
+           sum();
+           sum();
+           sum();//
+           sum();
+           sum();
+
+       public void sum(int x,String str) //x,str==> parameters
+         {
+             int a,b,total;
+
+               a=sc.nextInt();
+               b=sc.nextInt();
+              
+                total=a+b;
+                     s.o.p(total);
+         }
+
+      syntax of function / method
+
+            access_specifier  return_type function_name(<<parameters>>)
+               {
+                 //block of statements
+               }
+
+
+
+
+   1) function accept parameter and return value
+
+           WAP to show how to write function in java
+
+
+
+            class class1
+              {
+                int sum(int x,int y)
+                      {
+                        int z=x+y;
+
+                        return z+100;//valid
+                      } 
+              }
+
+
+              main()
+                {
+                    int n=sum(100,200);
+                }
+
+
+19/10/26
+
+How to write a function /method
+
+1) WAP to find area of circle
+
+
+
+  1) no parameter no return value
+
+             void function_name()
+                  {
+                  }
+
+  2)  accepting parameter but not returning value
+
+                void function_name(parameters)
+                      {
+                       }
+
+                   
+               public void CircleArea(int radius)
+                     {
+                         float area=3.14f*radius*radius;
+                         S.o.p(area);
+                     }
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             

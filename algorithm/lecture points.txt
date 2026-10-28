@@ -1,0 +1,56 @@
+Algorithm
+
+What is algorithm
+	An algorithm is step by step procedure used  to solve problem or perform specific task
+
+eg. Write an algorithm to calculate addition of two numbers
+	
+	1. start
+	2. read two  numbers A & B
+	3. calculate total=A+B
+	4. display total
+	5. stop
+
+Write an algorithm to find the largest of two numbers
+	
+
+A good algorithm generally has these characteristics:
+Characteristic		Meaning
+Input			Accepts zero or more inputs.
+Output			Produces at least one result.
+Definiteness		Every step is clear and unambiguous.
+Finiteness		Finishes after a finite number of steps.
+Effectiveness		Each step is practical and executable.
+
+practice Questions
+	
+Q1. Write an algorithm to find the largest of three numbers.
+
+Q2. Write an algorithm to calculate the area and circumference of a circle. (Area=PI*r*r   circumference=2*PI*r)
+
+Q3. Write an algorithm to swap two numbers, with and without using a third variable.
+
+Q4. Write an algorithm to convert temperature from Celsius to Fahrenheit.(fah= (c*(9/5))+32        C=(f-32)*(5/9))
+
+Q5. Write an algorithm to check whether a number is positive, negative, or zero.
+
+Q6. Write an algorithm to calculate the simple interest using principal, rate, and time.(si= p*r*t)
+
+----------------------------------------------------------------------------------------------------------
+Q7. Write an algorithm to find the factorial of a number.
+
+Q8. Write an algorithm to generate the multiplication table of a given number.
+
+Q9. Write an algorithm to calculate the sum of the first N natural numbers.
+
+Q10. Write an algorithm to reverse the digits of an integer.
+----------------------------------------------------------------------------------------------------------
+Q11. Write an algorithm to find the maximum and minimum elements in an array.
+
+Q12. Write an algorithm to calculate the average of array elements.
+
+Q13. Write an algorithm to search for an element using linear search.
+
+Q14. Write an algorithm to search for an element using binary search in a sorted array.
+
+Q15. Write an algorithm to count even and odd numbers in an array.
