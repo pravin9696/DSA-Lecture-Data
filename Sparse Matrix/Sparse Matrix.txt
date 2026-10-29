@@ -1,0 +1,23 @@
+A Sparse Matrix is a matrix in which most of the elements are zero (0). Instead of storing every element, we can save memory by storing only the non-zero elements.
+
+example.  3x3 sparse matrix
+
+0   0    5	
+0   0    0
+0   8    0
+
+   int [][]sp={
+              {0,0,5},
+	      {0,0,0},
+	      {0,8,0}
+               };
+
+Representing a sparse matrix using a 2D array
+We can store each non-zero element as a row containing three values: row index, column index, and element value.
+
+e.g.
+int[][] sparse = {
+    {0, 2, 5},
+    {2, 1, 8}
+};
+
