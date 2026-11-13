@@ -1,0 +1,12 @@
+Basic String Manipulation Operations
+The following operations are important in DSA:
+1. Traversing a string
+2. Finding the length of a string
+3. Copying a string
+4. Comparing two strings
+5. Concatenating two strings
+6. Reversing a string
+7. Searching a character
+8. Counting vowels and consonants
+9. Inserting a character
+10. Deleting a character

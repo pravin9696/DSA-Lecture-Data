@@ -1,0 +1,29 @@
+Q1. Write a Java program to count the frequency of each character in a string.
+
+Example: BANANA → B=1, A=3, N=2
+
+Q2. Write a Java program to check whether a string is a palindrome.
+
+Example: MADAM → Palindrome
+
+Q3. Write a Java program to remove all spaces from a string.
+
+Example: DATA STRUCTURE → DATASTRUCTURE
+
+Q4. Write a Java program to find the first occurrence of a character.
+
+Example: BANANA, search A → Index 1
+
+Q5. Write a Java program to convert lowercase characters into uppercase.
+
+Example: hello → HELLO
+
+Q6. Write a Java program to find duplicate characters in a string.
+
+Example: PROGRAMMING → M, G, R (depending on frequency)
+
+Q7. Write a Java program to count the number of words in a sentence.
+
+Example: I LOVE JAVA → 3 words
+
+Q8. Write a Java program to check whether two strings are anagrams.
