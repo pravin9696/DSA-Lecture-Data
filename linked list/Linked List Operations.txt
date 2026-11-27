@@ -1,0 +1,14 @@
+	Linked List Operations
+
+The important operations are:
+
+1) Insertion at beginning
+2) Insertion at end
+3) Insertion at specific position
+4) Deletion from beginning
+5) Deletion from end
+6) Deletion from specific position
+7) Searching an element
+8) Traversing / Displaying elements
+9) Counting nodes
+10) Updating a node
